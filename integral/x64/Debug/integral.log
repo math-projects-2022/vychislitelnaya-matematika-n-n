@@ -1,2 +1,3 @@
 ﻿  source.cpp
+C:\Users\qpdb4\Documents\C++\integral\source.cpp(161,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
   integral.vcxproj -> C:\Users\qpdb4\Documents\C++\integral\x64\Debug\integral.exe
